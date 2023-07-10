@@ -20,3 +20,8 @@ Select your desired options and click validate & compile, it will open metamask 
 View your token name and address in dashboard. 
 
 ![Screenshot (18)](https://github.com/RushDog03/Blockchain-Practical/assets/138419788/8d3724fb-0e0a-4b8f-a22f-9d6dd2d04812)
+
+Now, to see the transaction history of the token go to https://goerli.etherscan.io/ and paste your token address from 20 lab
+
+![Screenshot (19)](https://github.com/RushDog03/Blockchain-Practical/assets/138419788/f0fd7de1-e4c7-4c1b-a545-3e0e8dd143a8)
+
